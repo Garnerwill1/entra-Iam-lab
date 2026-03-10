@@ -57,7 +57,7 @@ This project is a beginner Identity and Access Management (IAM) home lab built i
 ![Per-User MFA Enabled](03-per-user-mfa-enabled.png)
 
 ### 4. Microsoft Authenticator Registration
-![Authenticator Added](04-authenticator-added.png.PNG)
+![Authenticator Added](04-authenticator-added)
 
 ### 5. Audit Log Review
 ![Audit Logs](05-audit-logs.png)
